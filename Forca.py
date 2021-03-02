@@ -1,5 +1,5 @@
 import random
-print('####### JOGO DA VELHA ########')
+print('####### JOGO DA FORCA ########')
 palavras = ['amarelo', 'amiga', 'amor', 'branco', 'cama', 'caneca', 'celular', 'clube', 'copo', 'elefante', 'escola',
             'estojo', 'geleia', 'limonada', 'janela', 'girafa', 'noite', 'parque', 'passarinho', 'peixe', 'pijama',
             'umbigo', 'acender', 'afilhado', 'ardiloso', 'caminho', 'basquete', 'chiclete', 'chuveiro', 'coelho',
